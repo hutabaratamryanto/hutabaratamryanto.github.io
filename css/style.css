@@ -311,6 +311,7 @@ p.w3-agileits2 {
 }
 p.copyright {
     left: 23%;
+	text-align: center;
 }
 }
 
@@ -328,6 +329,7 @@ p.w3-agileits2 {
 }
 p.copyright {
     left: 20%;
+	text-align: center;
 }
 img.w3l {
     left: 44%;
