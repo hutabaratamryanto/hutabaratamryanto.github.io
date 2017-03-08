@@ -1,1 +1,1 @@
-# hutabaratamryanto.github.com
+# hutabaratamryanto.github.io
