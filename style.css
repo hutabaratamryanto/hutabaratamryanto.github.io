@@ -337,6 +337,17 @@ body {
 	background-color: #5851db;
 }
 
+.fa-telegram:hover {
+	border-radius: 50%;
+	color: white;
+	background-color: blue;
+}
+
+.fa-youtube:hover {
+	border-radius: 50%;
+	color: white;
+	background-color: red;
+}
 
 /*---------- ICONS ENDS---------------*/
 
